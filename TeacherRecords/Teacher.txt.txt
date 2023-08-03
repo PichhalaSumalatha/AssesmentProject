@@ -1,0 +1,11 @@
+Written Part:
+Introduction:
+In this project I created a text file Teacher.txt stored data of students and Teacher such as Id ,name ,class &Section and I called that data into our program to manipulate the data. The program was developed as a Visual Studio Project using C#. The student data will be stored in a simple text file, and the project's source code will be tracked on GitHub. Testing the Program The project was built and run within Visual Studio. It was ensured that the File.txt file is present in the project directory or full path to the file was provided in the code.
+Creating a GitHub Repository Create a new GitHub repository with an appropriate name Ass2TeacherRecord.
+Initialize a Git repository in the local project folder using the following command in the terminal or Git Bash:
+git init
+git add .
+git commit -m 'first commit'
+git remote add origin
+git push -u origin master
+Conclusion: In this project, we created a program to Create a Text-file Based System For Storing and Updating Teacher Records and display it using a Visual Studio Windows Console Project. The source code was tracked in a GitHub repository. This simple system allows Rainbow Schools to manage student data efficiently.

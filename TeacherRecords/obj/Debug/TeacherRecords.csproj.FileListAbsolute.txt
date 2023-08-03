@@ -1,0 +1,8 @@
+D:\Assesment Project\Project-2\TeacherRecords\TeacherRecords\bin\Debug\TeacherRecords.exe.config
+D:\Assesment Project\Project-2\TeacherRecords\TeacherRecords\bin\Debug\TeacherRecords.exe
+D:\Assesment Project\Project-2\TeacherRecords\TeacherRecords\bin\Debug\TeacherRecords.pdb
+D:\Assesment Project\Project-2\TeacherRecords\TeacherRecords\obj\Debug\TeacherRecords.csproj.AssemblyReference.cache
+D:\Assesment Project\Project-2\TeacherRecords\TeacherRecords\obj\Debug\TeacherRecords.csproj.SuggestedBindingRedirects.cache
+D:\Assesment Project\Project-2\TeacherRecords\TeacherRecords\obj\Debug\TeacherRecords.csproj.CoreCompileInputs.cache
+D:\Assesment Project\Project-2\TeacherRecords\TeacherRecords\obj\Debug\TeacherRecords.exe
+D:\Assesment Project\Project-2\TeacherRecords\TeacherRecords\obj\Debug\TeacherRecords.pdb
